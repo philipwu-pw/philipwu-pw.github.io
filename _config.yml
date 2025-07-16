@@ -1,3 +1,11 @@
-theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
+theme: jekyll-theme-chirpy
+
+lang: en
+
+# https://kevinnovak.github.io/Time-Zone-Picker
+timezone: America/Vancouver
+
+# jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
+
+# main title
+title: Philip Wu
